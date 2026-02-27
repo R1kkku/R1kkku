@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is R1kkku and I'm a Junior DevOps</p>
+<p align="left">My name is R1kkku and I'm a Full Stack Developer</p>
 
 ###
 
