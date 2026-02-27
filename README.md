@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I write codes that works, kinda... but hey its works ok!<br>📚 I'm currently learning more about Cloud Servers<br>🎯 Goals: To be a Senior DevOps<br>🎲 Fun fact: I complain about it but i enjoy working on it</p>
+<p align="left">✨ I write codes that works, kinda... but hey its works ok!<br>📚 I'm currently learning more about Cloud Servers<br>🎯 Goals: To be a Senior DevOps<br>🎲 Fun fact: I complain about it but i enjoy working on it<br>🌎https://coderikku.cloud - Learn more about me!</p>
 
 ###
 
