@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I write codes that works, kinda... but hey its works ok!<br>📚 I'm currently learning more about Cloud Servers<br>🎯 Goals: To be a Senior DevOps<br>🎲 Fun fact: I complain about it but i enjoy solving it</p>
+<p align="left">✨ I write codes that works, kinda... but hey its works ok!<br>📚 I'm currently learning more about Cloud Servers<br>🎯 Goals: To be a Senior DevOps<br>🎲 Fun fact: I complain about it but i enjoy working on it</p>
 
 ###
 
@@ -68,13 +68,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/0xillu/0xillu/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/kv96t58x6c94zdmh18lwxh1tg">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kv96t58x6c94zdmh18lwxh1tg&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
