@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I write codes that work, kinda... but hey it works ok!<br>📚 I'm currently working with my python skills<br>🎯 Goals: To be a better developer than i was before<br>🎲 Fun fact: idk yet we'll see <br>🌎https://coderikku.cloud - Learn more about me!</p>
+<p align="left">✨ I dont write much code anymore thanks to ai<br>📚 I'm currently working with game development<br>🎯 Goals: To get better work<br>🎲 Fun fact: was a cheat dev before </p>
 
 ###
 
